@@ -1,28 +1,22 @@
 # Python Practice
+# 🐍 100 Python Problem Solving Challenge 🚀
 
- My personal commitment to sharpening my Python programming skills by solving **2 curated problems per day for 50 days!** 💪🐍
-
-> “Consistency is more important than intensity. Small daily improvements lead to stunning results.” 🚀
-
----
-
-## 🎯 Challenge Goal
-
-- ⏳ Duration: **50 Days**
-- 🎯 Target: **100 Python Problems**
-- 💼 Repository: `python-mindgym`
-- 📚 Source: *100 Python Problem Solving Challenge (Beginner → Advanced)*
+Welcome to my **Python Problem Solving Journey**!  
+I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Advanced** level, to strengthen my logic, problem-solving skills, and coding confidence.
 
 ---
 
-## 🧠 Skills Covered
+## 📌 Challenge Overview
 
-- ✅ Loops, Conditionals, Functions  
-- ✅ Strings, Lists, Dictionaries  
-- ✅ Recursion, Sorting, Searching  
-- ✅ Logic Building & Problem Solving
+- 📅 **Goal**: Solve 2 problems per day  
+- 🏁 **Duration**: 50 Days  
+- 🧠 **Topics**: Basics, Loops, Strings, Recursion, Data Structures, Algorithms, and more  
+- 📂 **Structure**: Each problem has its own file with:
+  - Problem statement
+  - Python solution
+  - Brief explanation
 
----
+
 
 ## 🗂️ Problem Progress Tracker
 
@@ -131,21 +125,6 @@
 
 ---
 
-## 🌟 Motivation
-
-Each day, I’ll take a step closer to mastering Python fundamentals, logic building, and problem-solving skills.  
-This challenge not only builds coding confidence but also fuels discipline and consistency.
-
-🧗‍♀️ Let’s climb this 100-problem mountain — one step at a time!
-
----
-
-## 🔗 Let’s Connect
-
-- [GitHub](https://github.com/shanmukha-pradeepthi-karri)  
-- [LinkedIn](https://linkedin.com/in/shanmukha-pradeepthi-karri-090a44289)
-
----
 
 ## 🙏 Thank You!
 
