@@ -1,4 +1,4 @@
-# Think-Code-Python
+# Python Practice 
 # 🐍 100 Python Problem Solving Challenge 🚀
 
 Welcome to my **Python Problem Solving Journey**!  
