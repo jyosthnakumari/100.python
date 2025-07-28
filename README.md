@@ -1,6 +1,6 @@
-# 🧠 Python MindGym: 100 Days of Code Challenge
+# Python Practice
 
-Welcome to **Python MindGym** – my personal commitment to sharpening my Python programming skills by solving **2 curated problems per day for 50 days!** 💪🐍
+ My personal commitment to sharpening my Python programming skills by solving **2 curated problems per day for 50 days!** 💪🐍
 
 > “Consistency is more important than intensity. Small daily improvements lead to stunning results.” 🚀
 
