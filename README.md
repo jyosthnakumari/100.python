@@ -23,9 +23,9 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | No. | Problem Name                                         | Level        | Status       |
 |-----|------------------------------------------------------|--------------|--------------|
 | 1   | Print "Hello, World!"                                | Beginner     | ✅ Solved     |
-| 2   | Sum of two numbers                                   | Beginner     | ❌ Pending   |
+| 2   | Sum of two numbers                                   | Beginner     | ✅ Solved     |
 | 3   | Maximum of two numbers                               | Beginner     | ❌ Pending    |
-| 4   | Check even or odd                                    | Beginner     | ❌ Pending  |
+| 4   | Check even or odd                                    | Beginner     | ❌ Pending    |
 | 5   | Check prime number                                   | Beginner     | ❌ Pending    |
 | 6   | Find factorial of a number                           | Beginner     | ❌ Pending    |
 | 7   | Fibonacci sequence up to n                           | Beginner     | ❌ Pending    |
