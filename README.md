@@ -26,8 +26,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 2   | Sum of two numbers                                   | Beginner     | ✅ Solved     |
 | 3   | Maximum of two numbers                               | Beginner     | ✅ Solved     |
 | 4   | Check even or odd                                    | Beginner     | ✅ Solved     |
-| 5   | Check prime number                                   | Beginner     | ❌ Pending    |
-| 6   | Find factorial of a number                           | Beginner     | ❌ Pending    |
+| 5   | Check prime number                                   | Beginner     | ✅ Solved     |
+| 6   | Find factorial of a number                           | Beginner     | ✅ Solved     |
 | 7   | Fibonacci sequence up to n                           | Beginner     | ❌ Pending    |
 | 8   | Reverse a number                                     | Beginner     | ❌ Pending    |
 | 9   | Palindrome number                                    | Beginner     | ❌ Pending    |
