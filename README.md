@@ -28,8 +28,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 4   | Check even or odd                                    | Beginner     | ✅ Solved     |
 | 5   | Check prime number                                   | Beginner     | ✅ Solved     |
 | 6   | Find factorial of a number                           | Beginner     | ✅ Solved     |
-| 7   | Fibonacci sequence up to n                           | Beginner     | ❌ Pending    |
-| 8   | Reverse a number                                     | Beginner     | ❌ Pending    |
+| 7   | Fibonacci sequence up to n                           | Beginner     | ✅ Solved     |
+| 8   | Reverse a number                                     | Beginner     | ✅ Solved     |
 | 9   | Palindrome number                                    | Beginner     | ❌ Pending    |
 | 10  | Count digits in a number                             | Beginner     | ❌ Pending    |
 | 11  | Armstrong number check                               | Beginner     | ❌ Pending    |
