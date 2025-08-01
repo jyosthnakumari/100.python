@@ -30,8 +30,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 6   | Find factorial of a number                           | Beginner     | ✅ Solved     |
 | 7   | Fibonacci sequence up to n                           | Beginner     | ✅ Solved     |
 | 8   | Reverse a number                                     | Beginner     | ✅ Solved     |
-| 9   | Palindrome number                                    | Beginner     | ❌ Pending    |
-| 10  | Count digits in a number                             | Beginner     | ❌ Pending    |
+| 9   | Palindrome number                                    | Beginner     | ✅ Solved     |
+| 10  | Count digits in a number                             | Beginner     | ✅ Solved     |
 | 11  | Armstrong number check                               | Beginner     | ❌ Pending    |
 | 12  | Print all primes between 1 to 100                    | Beginner     | ❌ Pending    |
 | 13  | Sum of digits of a number                            | Beginner     | ❌ Pending    |
