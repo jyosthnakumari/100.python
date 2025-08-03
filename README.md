@@ -34,8 +34,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 10  | Count digits in a number                             | Beginner     | ✅ Solved     |
 | 11  | Armstrong number check                               | Beginner     | ✅ Solved     |
 | 12  | Print all primes between 1 to 100                    | Beginner     | ✅ Solved     |
-| 13  | Sum of digits of a number                            | Beginner     | ❌ Pending    |
-| 14  | GCD of two numbers                                   | Beginner     | ❌ Pending    |
+| 13  | Sum of digits of a number                            | Beginner     | ✅ Solved     |
+| 14  | GCD of two numbers                                   | Beginner     | ✅ Solved     |
 | 15  | LCM of two numbers                                   | Beginner     | ❌ Pending    |
 | 16  | Swap two numbers without temp variable               | Beginner     | ❌ Pending    |
 | 17  | Convert Celsius to Fahrenheit                        | Beginner     | ❌ Pending    |
