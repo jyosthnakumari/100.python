@@ -36,8 +36,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 12  | Print all primes between 1 to 100                    | Beginner     | ✅ Solved     |
 | 13  | Sum of digits of a number                            | Beginner     | ✅ Solved     |
 | 14  | GCD of two numbers                                   | Beginner     | ✅ Solved     |
-| 15  | LCM of two numbers                                   | Beginner     | ❌ Pending    |
-| 16  | Swap two numbers without temp variable               | Beginner     | ❌ Pending    |
+| 15  | LCM of two numbers                                   | Beginner     | ✅ Solved     |
+| 16  | Swap two numbers without temp variable               | Beginner     | ✅ Solved     |
 | 17  | Convert Celsius to Fahrenheit                        | Beginner     | ❌ Pending    |
 | 18  | Check leap year                                      | Beginner     | ❌ Pending    |
 | 19  | Calculator using functions                           | Beginner     | ❌ Pending    |
