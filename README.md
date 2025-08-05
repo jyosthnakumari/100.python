@@ -38,8 +38,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 14  | GCD of two numbers                                   | Beginner     | ✅ Solved     |
 | 15  | LCM of two numbers                                   | Beginner     | ✅ Solved     |
 | 16  | Swap two numbers without temp variable               | Beginner     | ✅ Solved     |
-| 17  | Convert Celsius to Fahrenheit                        | Beginner     | ❌ Pending    |
-| 18  | Check leap year                                      | Beginner     | ❌ Pending    |
+| 17  | Convert Celsius to Fahrenheit                        | Beginner     | ✅ Solved     |
+| 18  | Check leap year                                      | Beginner     | ✅ Solved     |
 | 19  | Calculator using functions                           | Beginner     | ❌ Pending    |
 | 20  | ASCII value of a character                           | Beginner     | ❌ Pending    |
 | 21  | Number to binary, octal, and hexadecimal             | Beginner     | ❌ Pending    |
