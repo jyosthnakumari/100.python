@@ -40,8 +40,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 16  | Swap two numbers without temp variable               | Beginner     | ✅ Solved     |
 | 17  | Convert Celsius to Fahrenheit                        | Beginner     | ✅ Solved     |
 | 18  | Check leap year                                      | Beginner     | ✅ Solved     |
-| 19  | Calculator using functions                           | Beginner     | ❌ Pending    |
-| 20  | ASCII value of a character                           | Beginner     | ❌ Pending    |
+| 19  | Calculator using functions                           | Beginner     | ✅ Solved     |
+| 20  | ASCII value of a character                           | Beginner     | ✅ Solved     |
 | 21  | Number to binary, octal, and hexadecimal             | Beginner     | ❌ Pending    |
 | 22  | Sum of first n natural numbers                       | Beginner     | ❌ Pending    |
 | 23  | Print star pattern (triangle, pyramid, etc.)         | Beginner     | ❌ Pending    |
