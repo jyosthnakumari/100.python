@@ -44,8 +44,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 20  | ASCII value of a character                           | Beginner     | ✅ Solved     |
 | 21  | Number to binary, octal, and hexadecimal             | Beginner     | ✅ Solved     |
 | 22  | Sum of first n natural numbers                       | Beginner     | ✅ Solved     |
-| 23  | Print star pattern (triangle, pyramid, etc.)         | Beginner     | ❌ Pending    |
-| 24  | Count vowels and consonants                          | Beginner     | ❌ Pending    |
+| 23  | Print star pattern (triangle, pyramid, etc.)         | Beginner     | ✅ Solved     |
+| 24  | Count vowels and consonants                          | Beginner     | ✅ Solved     |
 | 25  | Remove punctuation from string                       | Beginner     | ❌ Pending    |
 | 26  | Reverse a string                                     | Beginner     | ❌ Pending    |
 | 27  | Count words in a sentence                            | Beginner     | ❌ Pending    |
