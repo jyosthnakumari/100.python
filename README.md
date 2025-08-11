@@ -46,8 +46,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 22  | Sum of first n natural numbers                       | Beginner     | ✅ Solved     |
 | 23  | Print star pattern (triangle, pyramid, etc.)         | Beginner     | ✅ Solved     |
 | 24  | Count vowels and consonants                          | Beginner     | ✅ Solved     |
-| 25  | Remove punctuation from string                       | Beginner     | ❌ Pending    |
-| 26  | Reverse a string                                     | Beginner     | ❌ Pending    |
+| 25  | Remove punctuation from string                       | Beginner     | ✅ Solved     |
+| 26  | Reverse a string                                     | Beginner     | ✅ Solved     |
 | 27  | Count words in a sentence                            | Beginner     | ❌ Pending    |
 | 28  | Capitalize first letter of each word                 | Beginner     | ❌ Pending    |
 | 29  | Replace substring in string                          | Beginner     | ❌ Pending    |
