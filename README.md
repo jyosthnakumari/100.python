@@ -48,8 +48,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 24  | Count vowels and consonants                          | Beginner     | ✅ Solved     |
 | 25  | Remove punctuation from string                       | Beginner     | ✅ Solved     |
 | 26  | Reverse a string                                     | Beginner     | ✅ Solved     |
-| 27  | Count words in a sentence                            | Beginner     | ❌ Pending    |
-| 28  | Capitalize first letter of each word                 | Beginner     | ❌ Pending    |
+| 27  | Count words in a sentence                            | Beginner     | ✅ Solved     |
+| 28  | Capitalize first letter of each word                 | Beginner     | ✅ Solved     |
 | 29  | Replace substring in string                          | Beginner     | ❌ Pending    |
 | 30  | Find the frequency of characters                     | Beginner     | ❌ Pending    |
 | 31  | Find second largest element in list                  | Intermediate | ❌ Pending    |
