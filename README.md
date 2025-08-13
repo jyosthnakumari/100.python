@@ -50,8 +50,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 26  | Reverse a string                                     | Beginner     | ✅ Solved     |
 | 27  | Count words in a sentence                            | Beginner     | ✅ Solved     |
 | 28  | Capitalize first letter of each word                 | Beginner     | ✅ Solved     |
-| 29  | Replace substring in string                          | Beginner     | ❌ Pending    |
-| 30  | Find the frequency of characters                     | Beginner     | ❌ Pending    |
+| 29  | Replace substring in string                          | Beginner     | ✅ Solved     |
+| 30  | Find the frequency of characters                     | Beginner     | ✅ Solved     |
 | 31  | Find second largest element in list                  | Intermediate | ❌ Pending    |
 | 32  | Find duplicates in a list                            | Intermediate | ❌ Pending    |
 | 33  | Merge two sorted lists                               | Intermediate | ❌ Pending    |
