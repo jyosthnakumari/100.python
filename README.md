@@ -54,8 +54,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 30  | Find the frequency of characters                     | Beginner     | ✅ Solved     |
 | 31  | Find second largest element in list                  | Intermediate | ✅ Solved     |
 | 32  | Find duplicates in a list                            | Intermediate | ✅ Solved     |
-| 33  | Merge two sorted lists                               | Intermediate | ❌ Pending    |
-| 34  | Sort list using bubble sort                          | Intermediate | ❌ Pending    |
+| 33  | Merge two sorted lists                               | Intermediate | ✅ Solved     |
+| 34  | Sort list using bubble sort                          | Intermediate | ✅ Solved     |
 | 35  | Find common elements in two lists                    | Intermediate | ❌ Pending    |
 | 36  | Remove all duplicates from list                      | Intermediate | ❌ Pending    |
 | 37  | Find frequency of elements in list                   | Intermediate | ❌ Pending    |
