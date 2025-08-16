@@ -56,8 +56,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 32  | Find duplicates in a list                            | Intermediate | ✅ Solved     |
 | 33  | Merge two sorted lists                               | Intermediate | ✅ Solved     |
 | 34  | Sort list using bubble sort                          | Intermediate | ✅ Solved     |
-| 35  | Find common elements in two lists                    | Intermediate | ❌ Pending    |
-| 36  | Remove all duplicates from list                      | Intermediate | ❌ Pending    |
+| 35  | Find common elements in two lists                    | Intermediate | ✅ Solved     |
+| 36  | Remove all duplicates from list                      | Intermediate | ✅ Solved     |
 | 37  | Find frequency of elements in list                   | Intermediate | ❌ Pending    |
 | 38  | Linear search in list                                | Intermediate | ❌ Pending    |
 | 39  | Binary search (recursive and iterative)              | Intermediate | ❌ Pending    |
