@@ -58,8 +58,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 34  | Sort list using bubble sort                          | Intermediate | ✅ Solved     |
 | 35  | Find common elements in two lists                    | Intermediate | ✅ Solved     |
 | 36  | Remove all duplicates from list                      | Intermediate | ✅ Solved     |
-| 37  | Find frequency of elements in list                   | Intermediate | ❌ Pending    |
-| 38  | Linear search in list                                | Intermediate | ❌ Pending    |
+| 37  | Find frequency of elements in list                   | Intermediate | ✅ Solved     |
+| 38  | Linear search in list                                | Intermediate | ✅ Solved     |
 | 39  | Binary search (recursive and iterative)              | Intermediate | ❌ Pending    |
 | 40  | Count even and odd numbers in list                   | Intermediate | ❌ Pending    |
 | 41  | Find minimum and maximum in list                     | Intermediate | ❌ Pending    |
