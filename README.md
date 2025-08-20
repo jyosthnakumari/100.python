@@ -62,8 +62,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 38  | Linear search in list                                | Intermediate | ✅ Solved     |
 | 39  | Binary search (recursive and iterative)              | Intermediate | ✅ Solved     |
 | 40  | Count even and odd numbers in list                   | Intermediate | ✅ Solved     |
-| 41  | Find minimum and maximum in list                     | Intermediate | ❌ Pending    |
-| 42  | Palindrome string check                              | Intermediate | ❌ Pending    |
+| 41  | Find minimum and maximum in list                     | Intermediate | ✅ Solved     |
+| 42  | Palindrome string check                              | Intermediate | ✅ Solved     |
 | 43  | Anagram check                                        | Intermediate | ❌ Pending    |
 | 44  | Check pangram                                        | Intermediate | ❌ Pending    |
 | 45  | Remove spaces from string                            | Intermediate | ❌ Pending    |
