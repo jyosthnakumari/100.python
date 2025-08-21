@@ -64,8 +64,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 40  | Count even and odd numbers in list                   | Intermediate | ✅ Solved     |
 | 41  | Find minimum and maximum in list                     | Intermediate | ✅ Solved     |
 | 42  | Palindrome string check                              | Intermediate | ✅ Solved     |
-| 43  | Anagram check                                        | Intermediate | ❌ Pending    |
-| 44  | Check pangram                                        | Intermediate | ❌ Pending    |
+| 43  | Anagram check                                        | Intermediate | ✅ Solved     |
+| 44  | Check pangram                                        | Intermediate | ✅ Solved     |
 | 45  | Remove spaces from string                            | Intermediate | ❌ Pending    |
 | 46  | Longest word in a sentence                           | Intermediate | ❌ Pending    |
 | 47  | Check if two strings are isomorphic                  | Intermediate | ❌ Pending    |
