@@ -66,8 +66,8 @@ I'm solving **100+ curated Python problems**, ranging from **Beginner** to **Adv
 | 42  | Palindrome string check                              | Intermediate | ✅ Solved     |
 | 43  | Anagram check                                        | Intermediate | ✅ Solved     |
 | 44  | Check pangram                                        | Intermediate | ✅ Solved     |
-| 45  | Remove spaces from string                            | Intermediate | ❌ Pending    |
-| 46  | Longest word in a sentence                           | Intermediate | ❌ Pending    |
+| 45  | Remove spaces from string                            | Intermediate | ✅ Solved     |
+| 46  | Longest word in a sentence                           | Intermediate | ✅ Solved     |
 | 47  | Check if two strings are isomorphic                  | Intermediate | ❌ Pending    |
 | 48  | Recursive factorial                                  | Intermediate | ❌ Pending    |
 | 49  | Recursive Fibonacci                                  | Intermediate | ❌ Pending    |
